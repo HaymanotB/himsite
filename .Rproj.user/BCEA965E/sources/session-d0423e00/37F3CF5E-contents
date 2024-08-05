@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  site-url: ""
+  title: "Haymanot Berehan"
+  description: "Welcome to my website"
+  navbar:
+    left:
+      - href: pages/about.qmd
+        icon: person-circle
+      - href: lecture/index.qmd
+      - puplications.qmd
+      - href: presentations/index.qmd
+        text: Presentations
+      
+    right:
+      - href: blog/index.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+      - icon: github
+        href: https://github.com/HaymanotB
+  page-footer: 
+    center: "Copyright 2024, Haymanot Berehan" 
+    border: true
+  open-graph: true
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: true
+    link-external-newwindow: true
+    metadata:
+      pagetitle: "Haymanot Berehan"
+
