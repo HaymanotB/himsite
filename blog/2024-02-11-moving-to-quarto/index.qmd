@@ -1,0 +1,11 @@
+---
+title: Introduction 
+date: '2024-08-03'
+summary: 'Tips on quarto website'
+categories: ["quarto"]
+---
+
+If you use Netlify (which I highly recommed, as the [Quarto/GitHub/Netlify integration](https://quarto.org/docs/publishing/netlify.html) is so seamless), you can supply a [redirects file](https://docs.netlify.com/routing/redirects/) that lists all the old urls and their new locations. Netlify builds from Quarto's `_site` directory, so just put the `_redirects` file ([here's mine](https://github.com/meghall06/personal-website/blob/master/static/_redirects)) in your `_site` folder, right? I tried that first, but it doesn't work because the `_site` directory rebuilds when you rerender your site. Instead, I moved my file into the `static` folder, which gets copied over to `_site` as described above.
+
+My use case here for redirects is pretty simple: I had a small number of urls to switch, and I don't expect to frequently add to that list. If your situation is more complicated and/or you want that `_redirects` file to automatically generate shorter urls when you create new pages, there are options described [here](https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/#netlify-redirects) and [here](https://silviacanelon.com/blog/2023-09-29-hello-quarto/#setting-up-redirects).
+

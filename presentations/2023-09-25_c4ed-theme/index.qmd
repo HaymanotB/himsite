@@ -1,0 +1,23 @@
+---
+title: "C4ED Presentation them"
+description: "Creating custom slide with xaringan"
+author: 
+  - name: Yebelay Berehan
+    affiliation: C4ED
+date: "2023-09-25"
+image: featured.png
+categories:
+  - R
+  - Xaringan
+  - C4ED theme
+
+---
+
+<span class="listing-btn-group">
+<a href="https://yebelay.github.io/Making-Slide-in-R/Slide.html#1" class="btn" role="button">{{< fa display >}} Slides</a> 
+
+
+### Slides
+
+<iframe class="slides" src="https://yebelay.github.io/Making-Slide-in-R/Slide.html#1"></iframe>
+

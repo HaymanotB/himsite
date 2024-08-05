@@ -1,0 +1,20 @@
+---
+title: "Joint Models Workshop"
+description: "Joint model for Survival and Longitudinal"
+author: 
+  - name: Yebelay Berehan
+date: "2024-01-18"
+image: featured.png
+categories:
+  - Xaringan
+  - Joint Model
+  - workshop
+---
+
+<a href="https://yebelay.github.io/Joint-Model/jointmodel.html#1">{{< fa display >}} Slides</a> 
+<a href="https://yebelay.github.io/Joint-Model/jointmodel.qmd" class="btn" role="button">{{< fa brands github >}} Code</a>
+
+### Slides
+
+<iframe class="slides" src="https://yebelay.github.io/Joint-Model/jointmodel.html#1"></iframe>
+

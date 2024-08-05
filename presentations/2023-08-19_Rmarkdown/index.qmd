@@ -1,0 +1,18 @@
+---
+title: "Introduction to Rmarkdown"
+author: 
+  - name: Yebelay Berehan
+    affiliation: DMU
+date: "2023-08-19"
+image: featured.jpeg
+categories:
+  - R Markdown
+  - xaringan
+---
+<span class="listing-btn-group">
+<a href="https://yebelay.github.io/Introduction-to-RMarkdown/RMarkdown-presentation.html#1" class="btn" role="button">{{< fa display >}} Slides</a>
+
+### Slides
+
+<iframe class="slides" src="https://yebelay.github.io/Introduction-to-RMarkdown/RMarkdown-presentation.html#1"></iframe>
+

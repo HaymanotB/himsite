@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "7b0a830e"
+  },
+  "404.qmd": {
+    "404.html": "3dd83890"
+  },
+  "blog/2024-02-11-moving-to-quarto/index.qmd": {
+    "index.html": "7c92edd9"
+  },
+  "blog/index.qmd": {
+    "index.html": "08ad9884"
+  },
+  "contact.qmd": {
+    "contact.html": "c797ab38"
+  },
+  "lecture/index.qmd": {
+    "index.html": "df34ee2e"
+  },
+  "pages/about.qmd": {
+    "about.html": "b2539ec8"
+  },
+  "presentations/2023-08-19_Rmarkdown/index.qmd": {
+    "index.html": "5290ea49"
+  },
+  "presentations/2023-09-25_c4ed-theme/index.qmd": {
+    "index.html": "5577d3cc"
+  },
+  "presentations/2023-10-18_Joint-Models-EPHI/index.qmd": {
+    "index.html": "6808426c"
+  },
+  "presentations/2024-07-21_Spatial-data-visualization/index.qmd": {
+    "index.html": "11939c87"
+  },
+  "presentations/index.qmd": {
+    "index.html": "9d779bf6"
+  },
+  "puplications.qmd": {
+    "puplications.html": "0dae3849"
+  }
+}
