@@ -12,7 +12,7 @@ format:
 
 ::: {.g-col-5 #note}
 
-# Contact Me {{< fa feather-pointed >}}
+# Contact Me
 
 You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.
 
