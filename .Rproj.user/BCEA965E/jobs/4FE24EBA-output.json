@@ -1,7 +1,0 @@
-[1,"==> quarto preview contact.qmd --to html --no-watch-inputs --no-browse\n\n"]
-[1,"pandoc \n  to: html\n  output-file: contact.html\n  standalone: true\n  title-prefix: Haymanot Berehan\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme:\n    - cosmo\n    - theme.scss\n  pagetitle: Haymanot Berehan\n  title: Contact Me\n  page-layout: article\n  grid:\n    margin-width: 0px\n    sidebar-width: 0px\n  \n"]
-[1,"Output created: _site\\contact.html\n\n"]
-[1,"Preparing to preview\n"]
-[1,"\n"]
-[1,"Watching files for changes\nBrowse at http://localhost:5817/contact.html\n"]
-[1,"GET: /contact.html\n"]
