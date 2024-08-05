@@ -7,41 +7,6 @@
     "text": "I am a Biostatistician"
   },
   {
-    "objectID": "pages/about.html",
-    "href": "pages/about.html",
-    "title": "Haymanot Berehan",
-    "section": "",
-    "text": "I have a master’s degrees in clinical Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, coupled with 7+ years of experience in project leading, data management, analysis, and teaching. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in Data science, longitudinal data analysis and survival data analysis. I have a piece of statistical software training experiences (R, SAS, SPSS, STATA, ArcGIS)."
-  },
-  {
-    "objectID": "pages/about.html#education",
-    "href": "pages/about.html#education",
-    "title": "Haymanot Berehan",
-    "section": "Education",
-    "text": "Education\n\nBahir Dar University, Ethiopia| Bahir Dar, Ethiopia\n\nMSc in Clinical Biostatistics| Sptember 2020 - August 2022\n\nDebre Markos University, Ethiopia| Debre Markos, Ethiopia\n\nBSc in Statistics | September 2014 - July 2017\n\nAfrica Leadership Group(ALX)\n\nVertiual Assistant and Data Analyst | Agust 2022"
-  },
-  {
-    "objectID": "pages/about.html#exprience",
-    "href": "pages/about.html#exprience",
-    "title": "Haymanot Berehan",
-    "section": "Exprience",
-    "text": "Exprience\n\nLecturer at: “Assosa University” from ‘2017-10-23’ to Present: ’’\nBiostatistician at: Loza Statistical consultancy and training Service Plc from ‘2022-05-01’ to ‘2023-04-30’\nData Manager Remotely at Jeju Research and statistical consultancy plc from ‘2023-05-05’ to present"
-  },
-  {
-    "objectID": "pages/about.html#about-me",
-    "href": "pages/about.html#about-me",
-    "title": "Haymanot Berehan",
-    "section": "",
-    "text": "I have a master’s degrees in clinical Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, coupled with 7+ years of experience in project leading, data management, analysis, and teaching. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in Data science, longitudinal data analysis and survival data analysis. I have a piece of statistical software training experiences (R, SAS, SPSS, STATA, ArcGIS)."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Contact Me \nYou can use this form to contact me about speaking engagements, collaborations, or simply to say hello.\nI also love hearing if my educational materials have been helpful for you, and how they could be improved — particularly if they could be made more accessible \n\n\n\n\nFull Name \nEmail Address \nMessage\n\n\nSubmit"
-  },
-  {
     "objectID": "puplications.html",
     "href": "puplications.html",
     "title": "Publications",
@@ -70,18 +35,46 @@
     "text": "Under preparation"
   },
   {
-    "objectID": "puplications.html#seminar-presentation",
-    "href": "puplications.html#seminar-presentation",
-    "title": "Publications",
-    "section": "Seminar presentation:",
-    "text": "Seminar presentation:\n\nDifference-in-Differences (DID) for Impact Evaluation, October 25, 2021, Stellenbosch University, South Africa.\nInsight to Different Methods for Handling Missing Data: Application with R, July 5, 2021, Debre Markos University, Ethiopia."
-  },
-  {
-    "objectID": "presentations/index.html",
-    "href": "presentations/index.html",
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
     "title": "Haymanot Berehan",
     "section": "",
-    "text": "2024-02-21\n    \n    Spatial data analaysis Training\n       \n            \n                \n                \n                    R\n                \n                \n                \n                    sf\n                \n                \n                \n                    Spatial analysis\n                \n                \n            \n            \n    \n    \n        Details\n    \n    \n    \n    \n  \n\n  \n    \n       2024-01-18\n    \n    Joint Models Workshop\n       \n            \n                \n                \n                    Xaringan\n                \n                \n                \n                    Joint Model\n                \n                \n                \n                    workshop\n                \n                \n            \n            \n    \n    \n        Details\n    \n    \n    \n    \n  \n\n  \n    \n       2023-09-25\n    \n    C4ED Presentation them\n       \n            \n                \n                \n                    R\n                \n                \n                \n                    Xaringan\n                \n                \n                \n                    C4ED theme\n                \n                \n            \n            \n    \n    \n        Details\n    \n    \n    \n    \n  \n\n  \n    \n       2023-08-19\n    \n    Introduction to Rmarkdown\n       \n            \n                \n                \n                    R Markdown\n                \n                \n                \n                    xaringan\n                \n                \n            \n            \n    \n    \n        Details\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
+    "text": "I have a master’s degrees in clinical Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, coupled with 7+ years of experience in project leading, data management, analysis, and teaching. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in Data science, longitudinal data analysis and survival data analysis. I have a piece of statistical software training experiences (R, SAS, SPSS, STATA, ArcGIS)."
+  },
+  {
+    "objectID": "pages/about.html#about-me",
+    "href": "pages/about.html#about-me",
+    "title": "Haymanot Berehan",
+    "section": "",
+    "text": "I have a master’s degrees in clinical Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, coupled with 7+ years of experience in project leading, data management, analysis, and teaching. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in Data science, longitudinal data analysis and survival data analysis. I have a piece of statistical software training experiences (R, SAS, SPSS, STATA, ArcGIS)."
+  },
+  {
+    "objectID": "pages/about.html#education",
+    "href": "pages/about.html#education",
+    "title": "Haymanot Berehan",
+    "section": "Education",
+    "text": "Education\n\nBahir Dar University, Ethiopia| Bahir Dar, Ethiopia\n\nMSc in Clinical Biostatistics| Sptember 2020 - August 2022\n\nDebre Markos University, Ethiopia| Debre Markos, Ethiopia\n\nBSc in Statistics | September 2014 - July 2017\n\nAfrica Leadership Group(ALX)\n\nVertiual Assistant and Data Analyst | Agust 2022"
+  },
+  {
+    "objectID": "pages/about.html#exprience",
+    "href": "pages/about.html#exprience",
+    "title": "Haymanot Berehan",
+    "section": "Exprience",
+    "text": "Exprience\n\nLecturer at: “Assosa University” from ‘2017-10-23’ to Present: ’’\nBiostatistician at: Loza Statistical consultancy and training Service Plc from ‘2022-05-01’ to ‘2023-04-30’\nData Manager Remotely at Jeju Research and statistical consultancy plc from ‘2023-05-05’ to present"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Contact Me \nYou can use this form to contact me about speaking engagements, collaborations, or simply to say hello.\nI also love hearing if my educational materials have been helpful for you, and how they could be improved — particularly if they could be made more accessible \n\n\n\n\nFull Name \nEmail Address \nMessage\n\n\nSubmit"
+  },
+  {
+    "objectID": "blog/2024-02-11-moving-to-quarto/index.html",
+    "href": "blog/2024-02-11-moving-to-quarto/index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "If you use Netlify (which I highly recommed, as the Quarto/GitHub/Netlify integration is so seamless), you can supply a redirects file that lists all the old urls and their new locations. Netlify builds from Quarto’s _site directory, so just put the _redirects file (here’s mine) in your _site folder, right? I tried that first, but it doesn’t work because the _site directory rebuilds when you rerender your site. Instead, I moved my file into the static folder, which gets copied over to _site as described above.\nMy use case here for redirects is pretty simple: I had a small number of urls to switch, and I don’t expect to frequently add to that list. If your situation is more complicated and/or you want that _redirects file to automatically generate shorter urls when you create new pages, there are options described here and here."
   },
   {
     "objectID": "blog/index.html",
@@ -89,5 +82,12 @@
     "title": "\nBlog Posts\n",
     "section": "",
     "text": "Introduction 2024-08-03 \n    \n            \n                \n                \n                    quarto\n                \n                \n            \n            \n    Tips on quarto website\n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "presentations/index.html",
+    "href": "presentations/index.html",
+    "title": "Haymanot Berehan",
+    "section": "",
+    "text": "2024-02-21\n    \n    Spatial data analaysis Training\n       \n            \n                \n                \n                    R\n                \n                \n                \n                    sf\n                \n                \n                \n                    Spatial analysis\n                \n                \n            \n            \n    \n    \n        Details\n    \n    \n    \n    \n  \n\n  \n    \n       2024-01-18\n    \n    Joint Models Workshop\n       \n            \n                \n                \n                    Xaringan\n                \n                \n                \n                    Joint Model\n                \n                \n                \n                    workshop\n                \n                \n            \n            \n    \n    \n        Details\n    \n    \n    \n    \n  \n\n  \n    \n       2023-09-25\n    \n    C4ED Presentation them\n       \n            \n                \n                \n                    R\n                \n                \n                \n                    Xaringan\n                \n                \n                \n                    C4ED theme\n                \n                \n            \n            \n    \n    \n        Details\n    \n    \n    \n    \n  \n\n  \n    \n       2023-08-19\n    \n    Introduction to Rmarkdown\n       \n            \n                \n                \n                    R Markdown\n                \n                \n                \n                    xaringan\n                \n                \n            \n            \n    \n    \n        Details\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
   }
 ]

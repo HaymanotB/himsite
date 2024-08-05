@@ -20,9 +20,9 @@ website:
       - href: contact.qmd
         text: Contact
       - icon: github
-        href: https://github.com/Yebelay
+        href: https://github.com/HaymanotB
   page-footer: 
-    center: "Copyright 2024, Yebelay Berehan" 
+    center: "Copyright 2024, Haymanot Berehan" 
     border: true
   open-graph: true
 format:
@@ -31,7 +31,5 @@ format:
     toc: true
     link-external-newwindow: true
     metadata:
-      pagetitle: "Yebelay Berehan"
+      pagetitle: "Haymanot Berehan"
 
-header-includes:
-    - '<meta name="google-site-verification" content="X-rOcrlZrFLBgUJZQigAahlBd2T_crpYhrBMXuzl6IA" />'
