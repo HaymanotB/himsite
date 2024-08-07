@@ -14,9 +14,9 @@ format:
 
 # Contact Me <i class="fas fa-heart" style="color: red;"></i>
 
-You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.
+Feel free to use this form to get in touch with me for any questions, comments, suggestions, or clarifications regarding my website. I also welcome you to simply say hello. Your feedback and thoughts are invaluable to me!
 
-I also love hearing if my educational materials have been helpful for you, and how they could be improved &#8212; particularly if they could be made more accessible {{< fa feather-pointed >}}
+I especially appreciate hearing how my educational materials have been helpful and any ideas for making them even more accessible and effective {{< fa feather-pointed >}}
 
 :::
 
@@ -32,9 +32,11 @@ I also love hearing if my educational materials have been helpful for you, and h
 <input type="email" name="_replyto" id="email-address" class="form-control" placeholder="example@gmail.com" required style="margin-bottom: 15px;">
 
 <label for="message" style="font-weight: bold;">Message</label>
-<textarea rows="6" name="message" id="message" class="form-control" placeholder="Write your message here and click the submit button below 👇👇👇" required style="margin-bottom: 20px;"></textarea>
+<textarea rows="6" name="message" id="message" class="form-control" placeholder="Type your message here and hit the submit button below 👇👇👇" required style="margin-bottom: 20px;"></textarea>
 
 <button type="submit" class="btn btn-primary mt-4" style="background-color: #007bff; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">Submit</button>
+
+
 </form>
 
 :::
