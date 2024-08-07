@@ -26,6 +26,7 @@ website:
     center: "Copyright 2024, Haymanot Berehan" 
     border: true
   open-graph: true
+  favicon: favicon.ico 
 format:
   html:
     theme: [cosmo, theme.scss]
