@@ -13,6 +13,7 @@ website:
       - puplications.qmd
       - href: presentations/index.qmd
         text: Presentations
+      - href: Certificates/index.qmd
       
     right:
       - href: blog/index.qmd
