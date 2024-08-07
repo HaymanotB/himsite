@@ -1,0 +1,8 @@
+[1,"==> quarto preview puplications.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: puplications.html\n  standalone: true\n  title-prefix: Haymanot Berehan\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme:\n    - cosmo\n    - theme.scss\n  pagetitle: Haymanot Berehan\n  title: Publications\n  \n"]
+[1,"Output created: _site\\puplications.html\n\nTerminating existing preview server...."]
+[1,"DONE\n\nPreparing to preview\n"]
+[1,"\n"]
+[1,"Watching files for changes\n"]
+[1,"Browse at http://localhost:6282/puplications.html\n"]
+[1,"GET: /puplications.html\n"]
