@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: ""
+  site-url: "https://haymanot.rbind.io/"
   title: "Haymanot Berehan"
   description: "Welcome to my website"
   navbar:
