@@ -3,7 +3,7 @@ project:
 
 website:
   site-url: "https://haymanot.rbind.io/"
-  title: "home"
+  title: "Haymanot Berehan"
   description: "Welcome to my website"
   navbar:
     left:
