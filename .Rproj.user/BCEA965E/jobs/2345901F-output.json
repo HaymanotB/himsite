@@ -11,3 +11,6 @@
 [1,"WARNING: Unable to resolve link target: publications.qmd\n"]
 [1,"Output created: _site\\index.html\n\nWatching files for changes\n"]
 [1,"GET: /\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: home\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: false\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  header-include:\n    - <meta name=\"google-site-verification\" content=\"v4TpnhL8AGVc3ghIXrIcsVahXhnAgwDPtbjluhDcvzg\" />\n  theme:\n    - cosmo\n    - theme.scss\n  pagetitle: Haymanot Berehan\n  title: Haymanot Berehan\n  image: pages/images/img1.jpg\n  about:\n    template: jolla\n    image-shape: round\n    image-width: 20em\n    links:\n      - icon: LinkedIn\n        text: LinkedIn\n        href: 'https://www.linkedin.com/in/haymanot-berelie-360675120/'\n      - icon: github\n        text: GitHub\n        href: 'https://github.com/HaymanotB/'\n      - icon: envelope\n        text: Email\n        href: 'mailto:him12br@gmail.com'\n  \n"]
+[1,"WARNING: Unable to resolve link target: publications.qmd\n"]
+[1,"Output created: _site\\index.html\n\nWatching files for changes\n"]
