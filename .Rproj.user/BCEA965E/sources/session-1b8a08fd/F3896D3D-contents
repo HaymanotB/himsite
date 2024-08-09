@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024-02-11-moving-to-quarto/index.html"
+    ]
+  },
+  {
+    "listing": "/presentations/index.html",
+    "items": [
+      "/presentations/2024-07-21_Spatial-data-visualization/index.html",
+      "/presentations/2023-10-18_Joint-Models-EPHI/index.html",
+      "/presentations/2023-09-25_c4ed-theme/index.html",
+      "/presentations/2023-08-19_Rmarkdown/index.html"
+    ]
+  }
+]
