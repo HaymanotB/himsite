@@ -10,7 +10,7 @@ website:
       - href: pages/about.qmd
         icon: person-circle
       - href: lecture/index.qmd
-      - href: publications.qmd
+      - href: publications/index.qmd
       #- href: presentations/index.qmd
         #text: Presentations
       - href: Certificates/index.qmd
