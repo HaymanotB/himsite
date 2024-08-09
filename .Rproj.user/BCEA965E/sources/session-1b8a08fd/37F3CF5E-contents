@@ -1,5 +1,5 @@
-project:
-  type: website
+project: 
+ type: website
 
 website:
   site-url: "https://haymanot.rbind.io/"
@@ -10,9 +10,9 @@ website:
       - href: pages/about.qmd
         icon: person-circle
       - href: lecture/index.qmd
-      - puplications.qmd
-      #- href: presentations/index.qmd
-        #text: Presentations
+      - href: publications.qmd
+      # - href: presentations/index.qmd
+        # text: Presentations
       - href: Certificates/index.qmd
       
     right:
@@ -27,6 +27,7 @@ website:
     border: true
   open-graph: true
   favicon: favicon.ico 
+
 format:
   html:
     theme: [cosmo, theme.scss]
