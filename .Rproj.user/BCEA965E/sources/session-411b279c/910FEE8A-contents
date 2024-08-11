@@ -30,7 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="/site_libs/quarto-search/fuse.min.js"></script>
 <script src="/site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="/">
-<link href="/./favicon.ico" rel="icon">
 <script src="/site_libs/quarto-html/quarto.js"></script>
 <script src="/site_libs/quarto-html/popper.min.js"></script>
 <script src="/site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,10 +66,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<meta name="google-site-verification" content="v4TpnhL8AGVc3ghIXrIcsVahXhnAgwDPtbjluhDcvzg">
+<meta name="google-site-verification" content="X-rOcrlZrFLBgUJZQigAahlBd2T_crpYhrBMXuzl6IA">
 
 
-<meta property="og:title" content="Haymanot Berehan">
+<meta property="og:title" content="Yebelay Berehan">
 <meta property="og:description" content="Welcome to my website">
 <meta property="og:site_name" content="Haymanot Berehan">
 </head>
@@ -102,12 +101,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Lecture Notes</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/publications/index.html"> 
+    <a class="nav-link" href="/puplications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/Certificates/index.html"> 
-<span class="menu-text">Certificates</span></a>
+    <a class="nav-link" href="/presentations/index.html"> 
+<span class="menu-text">Presentations</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -120,7 +119,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/HaymanotB"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/Yebelay"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -251,7 +250,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/haymanot\.rbind\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -591,7 +590,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Copyright 2024, Haymanot Berehan</p>
+<p>Copyright 2024, Yebelay Berehan</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

@@ -1,0 +1,7 @@
+[1,"==> quarto preview 404.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: 404.html\n  standalone: true\n  title-prefix: Haymanot Berehan\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  header-includes:\n    - <meta name=\"google-site-verification\" content=\"v4TpnhL8AGVc3ghIXrIcsVahXhnAgwDPtbjluhDcvzg\" />\n  theme:\n    - cosmo\n    - theme.scss\n  pagetitle: Haymanot Berehan\n  title: 404 - Page not found\n  \n"]
+[1,"Output created: _site\\404.html\n\nTerminating existing preview server....DONE\n\n"]
+[1,"Preparing to preview\n"]
+[1,"\n"]
+[1,"Watching files for changes\nBrowse at http://localhost:4848/404.html\n"]
+[1,"GET: /404.html\n"]
