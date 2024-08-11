@@ -19,3 +19,4 @@
 [1,"GET: /Certificates/\n"]
 [1,"pandoc \n  to: html\n  output-file: contact.html\n  standalone: true\n  title-prefix: Haymanot Berehan\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  header-includes:\n    - <meta name=\"google-site-verification\" content=\"v4TpnhL8AGVc3ghIXrIcsVahXhnAgwDPtbjluhDcvzg\" />\n  theme:\n    - cosmo\n    - theme.scss\n  pagetitle: Haymanot Berehan\n  page-layout: article\n  grid:\n    margin-width: 0px\n    sidebar-width: 0px\n  \n"]
 [1,"Output created: _site\\contact.html\n\nWatching files for changes\n"]
+[1,"GET: /contact.html\n"]
