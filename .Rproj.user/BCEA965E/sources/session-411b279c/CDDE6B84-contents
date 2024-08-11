@@ -33,4 +33,8 @@ format:
     link-external-newwindow: true
     metadata:
       pagetitle: "Haymanot Berehan"
-header-include: '<meta name="google-site-verification" content="v4TpnhL8AGVc3ghIXrIcsVahXhnAgwDPtbjluhDcvzg" />'
+      
+      
+header-includes:
+  - '<meta name="google-site-verification" content="v4TpnhL8AGVc3ghIXrIcsVahXhnAgwDPtbjluhDcvzg" />'
+  
