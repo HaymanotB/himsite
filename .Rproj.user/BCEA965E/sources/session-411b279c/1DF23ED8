@@ -1,19 +1,19 @@
 {
-    "id": "4CE75DFB",
-    "path": "F:/himsite/404.qmd",
-    "project_path": "404.qmd",
-    "type": "quarto_markdown",
+    "id": "1DF23ED8",
+    "path": "F:/himsite/theme.scss",
+    "project_path": "theme.scss",
+    "type": "scss",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1723402958355.0,
+    "created": 1723405390468.0,
     "source_on_save": false,
     "relative_order": 8,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,36",
-        "scrollLine": "5"
+        "cursorPosition": "16,48",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1722850494,
