@@ -1,0 +1,72 @@
+library(shiny)
+library(shinydashboard)
+library(ggplot2)
+library(plotly)
+library(leaflet)
+library(DT)
+library(readr)
+
+# Sample dataset (replace with real data)
+nutrition_data <- data.frame(
+  Region = c("North", "South", "East", "West"),
+  Stunting = c(25, 30, 22, 28),
+  Wasting = c(8, 10, 7, 9),
+  Dietary_Diversity = c(45, 50, 55, 60)
+)
+
+# UI
+ui <- dashboardPage(
+  dashboardHeader(title = "Nutrition M&E Dashboard"),
+  dashboardSidebar(
+    sidebarMenu(
+      menuItem("Overview", tabName = "overview", icon = icon("dashboard")),
+      menuItem("Data Table", tabName = "table", icon = icon("table")),
+      menuItem("Map", tabName = "map", icon = icon("globe"))
+    )
+  ),
+  dashboardBody(
+    tabItems(
+      tabItem(tabName = "overview",
+              fluidRow(
+                box(plotlyOutput("stunting_plot"), width = 6),
+                box(plotlyOutput("wasting_plot"), width = 6)
+              )
+      ),
+      tabItem(tabName = "table", DTOutput("data_table")),
+      tabItem(tabName = "map", leafletOutput("map"))
+    )
+  )
+)
+
+# Server
+server <- function(input, output) {
+  output$stunting_plot <- renderPlotly({
+    p <- ggplot(nutrition_data, aes(x = Region, y = Stunting, fill = Region)) +
+      geom_bar(stat = "identity") +
+      theme_minimal() +
+      labs(title = "Stunting Rates by Region")
+    ggplotly(p)
+  })
+  
+  output$wasting_plot <- renderPlotly({
+    p <- ggplot(nutrition_data, aes(x = Region, y = Wasting, fill = Region)) +
+      geom_bar(stat = "identity") +
+      theme_minimal() +
+      labs(title = "Wasting Rates by Region")
+    ggplotly(p)
+  })
+  
+  output$data_table <- renderDT({
+    datatable(nutrition_data, options = list(pageLength = 5))
+  })
+  
+  output$map <- renderLeaflet({
+    leaflet() %>%
+      addTiles() %>%
+      addMarkers(lng = c(36.8, 37.0, 38.5, 39.1), lat = c(-1.3, -1.2, -1.0, -0.9),
+                 popup = nutrition_data$Region)
+  })
+}
+
+# Run App
+shinyApp(ui, server)

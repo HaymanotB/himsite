@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Haymanot Berehan",
     "section": "",
-    "text": "I am a Biostatistician"
+    "text": "MSc in Bioinformatics student at University of Cape Town, South Africa. Holding a masters degree in Biostatistics at Bahir Dar University Ethiopia."
   },
   {
     "objectID": "puplications.html",
@@ -39,21 +39,21 @@
     "href": "pages/about.html",
     "title": "Haymanot Berehan",
     "section": "",
-    "text": "I have a master’s degrees in clinical Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, coupled with 7+ years of experience in project leading, data management, analysis, and teaching. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in Data science, longitudinal data analysis and survival data analysis. I have a piece of statistical software training experiences (R, SAS, SPSS, STATA, ArcGIS)."
+    "text": "Currently, I am doing my Second masters in Bionformatics at University of Cape Town, South Africa. I have another masters degrees in statistics(Biostatistics) from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, Ethiopia. coupled with 7+ years of experience in project leading, data management, analysis, and lecturing. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in bioinformatics,biostatistics, genetics, genomics, and biomedical research. I have a strong statistical software training experiences in (Python, Bash, R, SAS, SPSS, STATA, ArcGIS).."
   },
   {
     "objectID": "pages/about.html#about-me",
     "href": "pages/about.html#about-me",
     "title": "Haymanot Berehan",
     "section": "",
-    "text": "I have a master’s degrees in clinical Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, coupled with 7+ years of experience in project leading, data management, analysis, and teaching. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in Data science, longitudinal data analysis and survival data analysis. I have a piece of statistical software training experiences (R, SAS, SPSS, STATA, ArcGIS)."
+    "text": "Currently, I am doing my Second masters in Bionformatics at University of Cape Town, South Africa. I have another masters degrees in statistics(Biostatistics) from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, Ethiopia. coupled with 7+ years of experience in project leading, data management, analysis, and lecturing. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in bioinformatics,biostatistics, genetics, genomics, and biomedical research. I have a strong statistical software training experiences in (Python, Bash, R, SAS, SPSS, STATA, ArcGIS).."
   },
   {
     "objectID": "pages/about.html#education",
     "href": "pages/about.html#education",
     "title": "Haymanot Berehan",
     "section": "Education",
-    "text": "Education\n\nBahir Dar University, Ethiopia| Bahir Dar, Ethiopia\n\nMSc in Clinical Biostatistics\n| Sptember 2020 - August 2022\n\nDebre Markos University, Ethiopia| Debre Markos, Ethiopia\n\nBSc in Statistics\n| September 2014 - July 2017\n\nAfrica Leadership Group(ALX)\n\nVertiual Assistant and Data Analyst\n| Agust 2022"
+    "text": "Education\n\nUniversity of Cape Town, South Africa| Cape Town, South Africa\n\nMSc in Bioinformatics\n\n| February 2025 - Present\nBahir Dar University, Ethiopia| Bahir Dar, Ethiopia\n\nMSc in Clinical Biostatistics\n| Sptember 2020 - August 2022\n\nDebre Markos University, Ethiopia| Debre Markos, Ethiopia\n\nBSc in Statistics\n| September 2014 - July 2017\n\nAfrica Leadership Group(ALX)\n\nVertiual Assistant and Data Analyst\n| Agust 2022"
   },
   {
     "objectID": "pages/about.html#exprience",
@@ -144,7 +144,7 @@
     "href": "publications/index.html#msc.-thesisproject",
     "title": "Publications",
     "section": "MSc. Thesis/Project",
-    "text": "MSc. Thesis/Project\n\nTitle: Joint modeling of functional ability measures and competing risk for stroke patients. Journal: Bahir Dar University\n\nAbstract\nBackground: In many clinical trials, patients who are followed up over time may typically experience multiple events. Ignoring such competing risk events in time-to-event analyses can lead to biased risk estimates. In this context, we presented joint modeling of functional ability measures and the competing risk among stroke patients at FHCSH Bahir Dar, Ethiopia.\nMethods: We considered 400 stroke patients under the medical ward outpatient stroke at FHCSH who started treatment from September 2018 to August 2021 by a retrospective cohort study design,patients with CT scan or MRI confirmation, patients with age greater than or equal to 18 years,and patients with at least three visits were included in this study. For this purpose, we employed a joint model of longitudinal ordinal with competing risk.\nResult: Among different candidates of demographic and clinical variables, age, diabetes, blood urea nitrogen, Glasgow coma scale, white blood cell count, and stroke complication were statistically significant predictors in the longitudinal sub-model for functional ability. Likewise,age, diabetes, cholesterol level, white blood cell count, atrial fibrillation, types of strokes, and stroke complications were statistically significant predictors in the cause-specific hazard submodel for time to death and dropouts. Finally, age,diabetes,white blood cell count,and stroke complication were statistically significant predictors that jointly affected the two sub-model. Additionally, associations between both joint model and competing risk were statistically significant.\nConclusion: The joint competing risk modeling approach, provides wide-ranging information about the transition pattern of the disease, with associated improved knowledge of disease etiology.\nRecommendation: The results of the study can be used as a motivation for future scholars. since stroke is one of the most frequent diseases in Ethiopia as well as in the world, it needs more attention and study in a wider study area.\nKeywords:- modified Rankin Scale, Proportional Hazard, Cause-Specific, Cumulative Incidence Function, Partial-Proportional Odds\nLink\nSupervisors:\n\nName: Dr Zelalem G, Dessie\nEmail: zelalem_getahune@yahoo.com\nAddress: University of KwaZulu Natal, South Africa\nName: Dr Lijalem Melie Tesfaw\nEmail: lijalemmelie@gmail.com\nAddress: university of Queensland, Australia"
+    "text": "MSc. Thesis/Project\n\nTitle: Joint modeling of functional ability measures and competing risk for stroke patients. Journal: Bahir Dar University\n\nAbstract\nBackground: In many clinical trials, patients who are followed up over time may typically experience multiple events. Ignoring such competing risk events in time-to-event analyses can lead to biased risk estimates. In this context, we presented joint modeling of functional ability measures and the competing risk among stroke patients at FHCSH Bahir Dar, Ethiopia.\nMethods: We considered 400 stroke patients under the medical ward outpatient stroke at FHCSH who started treatment from September 2018 to August 2021 by a retrospective cohort study design,patients with CT scan or MRI confirmation, patients with age greater than or equal to 18 years,and patients with at least three visits were included in this study. For this purpose, we employed a joint model of longitudinal ordinal with competing risk.\nResult: Among different candidates of demographic and clinical variables, age, diabetes, blood urea nitrogen, Glasgow coma scale, white blood cell count, and stroke complication were statistically significant predictors in the longitudinal sub-model for functional ability. Likewise,age, diabetes, cholesterol level, white blood cell count, atrial fibrillation, types of strokes, and stroke complications were statistically significant predictors in the cause-specific hazard submodel for time to death and dropouts. Finally, age,diabetes,white blood cell count,and stroke complication were statistically significant predictors that jointly affected the two sub-model. Additionally, associations between both joint model and competing risk were statistically significant.\nConclusion: The joint competing risk modeling approach, provides wide-ranging information about the transition pattern of the disease, with associated improved knowledge of disease etiology.\nRecommendation: The results of the study can be used as a motivation for future scholars. since stroke is one of the most frequent diseases in Ethiopia as well as in the world, it needs more attention and study in a wider study area.\nKeywords:- modified Rankin Scale, Proportional Hazard, Cause-Specific, Cumulative Incidence Function, Partial-Proportional Odds\nLink\nSupervisors:\n\nName: Dr Zelalem G, Dessie\nEmail: zelalem_getahune@yahoo.com\nAddress: University of KwaZulu Natal, South Africa\nName: Dr Lijalem Melie Tesfaw\nEmail: lijalemmelie@gmail.com\nAddress: University of Queensland, Australia"
   },
   {
     "objectID": "publications/index.html#publications",
@@ -158,7 +158,7 @@
     "href": "publications/index.html#under-review",
     "title": "Publications",
     "section": "Under Review",
-    "text": "Under Review\n\nTitle: Competing Risks analysis in a case of stroke patients at felege hiwot referral hospital, Bahir Dar Ethiopia. Frontier in stroke. 2024. 10:1442989\nJournal: Frontier in Stroke link\nTitle. Modelling spatial distribution and determinants of home delivery in Ethiopia: geographically weighted regression.\nJournal: Scientific report\nTitle. Identifying factors that determine functional status of stroke patients using partial proportional odds model at Felege Hiwot referral hospital Ethiopia. 2024.\nJournal: Scientific report\n\nlink\n\nTitle. Maru Z, Haymanot B, Awoke S,.2023. Determinants of blood sugar level and time to first remission for type 1 diabetic patients under treatment; Comparison of separate and joint models.\nJournal: Hematology and Oncology\nTitle. Trend and Forecast of Measles Disease, In East Gojjam Zone, Amhara Region, Northwest Ethiopia\nJournal: Health, Population and Nutrition"
+    "text": "Under Review\n\nTitle: Competing Risks analysis in a case of stroke patients at felege hiwot referral hospital, Bahir Dar Ethiopia. Frontier in stroke. 2024. 10:1442989\nJournal: Frontier in Stroke link\nTitle. Modelling spatial distribution and determinants of home delivery in Ethiopia: geographically weighted regression.\nJournal: Scientific report\nTitle. Identifying factors that determine functional status of stroke patients using partial proportional odds model at Felege Hiwot referral hospital Ethiopia. 2024.\nJournal: Scientific report\n\nlink"
   },
   {
     "objectID": "publications/index.html#under-preparations",
@@ -166,5 +166,19 @@
     "title": "Publications",
     "section": "Under preparations",
     "text": "Under preparations\n\nTitle: Understanding Trends and Determinants of Healthcare Utilization for Common Childhood Illnesses in Ethiopia\nTitle: Exploring frailty and factor identification in women who had breast cancer at Felege Hiwot referral hospital, Ethiopia\nTitle: Joint modelling of CD4 cell count change and adherence to HAART at Injibara general hospital, Ethiopia\nTitle: Determinant factor of longitudinal pulse pressure among hypertensive patients treated Assosa general hospital, Ethiopia\nTitle: Major risk factors on time to recovery and competing lost follow up among diabetic patients at Felege Hiwot referral hospital, Ethiopia"
+  },
+  {
+    "objectID": "pages/about.html#experience",
+    "href": "pages/about.html#experience",
+    "title": "Haymanot Berehan",
+    "section": "Experience",
+    "text": "Experience\n\nLecturer at: Assosa University\n| 2017-10-23 -to - 2024-11-15.\nBiostatistician at: Loza Statistical consultancy and training Service Plc\n| 2022-05-01 - to - 2024-04-30\nData Manager Remotely at: Jeju Research and statistical consultancy plc\n|2024-05-05 - to - 2024-12-31.\nMonitoring AND Evaluation Remotely at: Shebel Berenta Agricultural office – Yeduha, Ethiopia\n|2018-10-22 – to - 2024-08-16"
+  },
+  {
+    "objectID": "publications/index.html#peer-reviewed",
+    "href": "publications/index.html#peer-reviewed",
+    "title": "Publications",
+    "section": "Peer-Reviewed",
+    "text": "Peer-Reviewed\n\nTitle: Exploring functional abilities and competing risks among stroke patients: a longitudinal and survival analysis study at Felege Hiwot Referral Hospital, Ethiopia. 2024. 14(5): p. e073384.\nJournal: BMJ Open. doi\nTitle: Spatial variation of short birth intervals and their determinant factors among reproductive women in Ethiopia using a geographically weighted regression model. 2024. 11: p. 1363844.\nJournal: Frontier in Medicine doi\nTitle: Determinant factors of the longitudinal pulse pressure among hypertensive patients treated at Assosa general hospital, Western Ethiopia\nJournal: BMC Cardiovascular Disorders. doi\nTitle:Trend and forecast of measles disease, in East Gojjam Zone, Amhara Region, Northwest Ethiopia, 2023: a crossectional study.\nJournal: BMC Research Notes. doi"
   }
 ]

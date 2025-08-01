@@ -1,0 +1,8 @@
+[1,"==> quarto preview about.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: about.html\n  standalone: true\n  title-prefix: Haymanot Berehan\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  header-includes:\n    - <meta name=\"google-site-verification\" content=\"v4TpnhL8AGVc3ghIXrIcsVahXhnAgwDPtbjluhDcvzg\" />\n  theme:\n    - cosmo\n    - ../theme.scss\n  pagetitle: Haymanot Berehan\n  title: ''\n  \n"]
+[1,"Output created: ..\\_site\\pages\\about.html\n\nTerminating existing preview server....DONE\n\n"]
+[1,"Preparing to preview\n"]
+[1,"\n"]
+[1,"Watching files for changes\nBrowse at http://localhost:7503/pages/about.html\n"]
+[1,"GET: /pages/about.html\n"]
+[1,"GET: /\n"]

@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  site-url: "https://haymanot.rbind.io/"
+  title: "Haymanot Berehan"
+  description: "Welcome to my website"
+  navbar:
+    left:
+      - href: pages/about.qmd
+        icon: person-circle
+      - href: lecture/index.qmd
+      - href: publications/index.qmd
+      #- href: presentations/index.qmd
+        #text: Presentations
+      - href: Certificates/index.qmd
+    right:
+      - href: blog/index.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+      - href: https://github.com/HaymanotB
+        icon: github
+  page-footer: 
+    center: "Copyright 2024, Haymanot Berehan" 
+    border: true
+  open-graph: true
+  favicon: favicon.ico 
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: true
+    link-external-newwindow: true
+    metadata:
+      pagetitle: "Haymanot Berehan"
+      
+      
+header-includes:
+  - '<meta name="google-site-verification" content="v4TpnhL8AGVc3ghIXrIcsVahXhnAgwDPtbjluhDcvzg" />'
+  

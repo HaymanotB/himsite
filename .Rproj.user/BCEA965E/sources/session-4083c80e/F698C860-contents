@@ -1,0 +1,79 @@
+---
+title: "Ethiopia Nutrition Monitoring & Evaluation Report"
+author: "Haymanot"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    number_sections: true
+  pdf_document:
+    toc: true
+  word_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+# Load necessary libraries
+library(ggplot2)
+library(dplyr)
+library(kableExtra)
+library(leaflet)
+```
+
+# Introduction
+This report provides an overview of key nutrition indicators in Ethiopia, focusing on stunting, wasting, and dietary diversity across different regions.
+
+# Data Overview
+
+```{r data-load}
+# Sample dataset for Ethiopia (Replace with real data)
+nutrition_data <- data.frame(
+  Region = c("Tigray", "Afar", "Amhara", "Oromia", "Somali", "Benishangul-Gumuz", "SNNPR", "Gambela", "Harari", "Addis Ababa", "Dire Dawa"),
+  Stunting = c(35, 40, 32, 30, 45, 38, 33, 41, 29, 20, 25),
+  Wasting = c(10, 12, 8, 7, 15, 11, 9, 13, 6, 5, 7),
+  Dietary_Diversity = c(50, 55, 60, 62, 48, 52, 58, 53, 65, 75, 70)
+)
+
+# Display data table
+knitr::kable(nutrition_data, caption = "Nutrition Indicators by Region") %>%
+  kable_styling(bootstrap_options = c("striped", "hover"))
+```
+
+# Visualizations
+
+## Stunting Rates by Region
+```{r stunting-plot}
+ggplot(nutrition_data, aes(x = Region, y = Stunting, fill = Region)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+  labs(title = "Stunting Rates by Region", y = "Stunting (%)", x = "Region") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+## Wasting Rates by Region
+```{r wasting-plot}
+ggplot(nutrition_data, aes(x = Region, y = Wasting, fill = Region)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+  labs(title = "Wasting Rates by Region", y = "Wasting (%)", x = "Region") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+## Geographic Distribution of Nutrition Indicators
+```{r map, eval=TRUE}
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = c(39.5, 40.6, 37.5, 38.5, 42.0, 34.5, 37.0, 34.3, 42.1, 38.75, 41.86),
+             lat = c(13.5, 11.5, 11.5, 7.5, 6.0, 10.5, 6.5, 7.8, 9.3, 9.03, 9.6),
+             popup = nutrition_data$Region)
+```
+
+# Conclusion
+- The highest stunting rates are observed in Somali and Afar regions.
+- Wasting rates are significantly high in Somali and Gambela.
+- Dietary diversity is lowest in Somali and highest in Addis Ababa.
+
+This report provides insights to guide nutrition policy and program interventions in Ethiopia.

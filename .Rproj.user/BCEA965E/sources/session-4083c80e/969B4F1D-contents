@@ -1,0 +1,3 @@
+install.packages(c("shiny", "shinydashboard", "flexdashboard", 
+                   "ggplot2", "plotly", "leaflet", "DT", "readr"))
+
