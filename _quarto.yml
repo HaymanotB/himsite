@@ -15,7 +15,7 @@ website:
         #text: Presentations
       - href: Certificates/index.qmd
     right:
-      - href: blog/index.qmd
+      - href: https://himi-be-my.blogspot.com/
         text: Blog
       - href: contact.qmd
         text: Contact

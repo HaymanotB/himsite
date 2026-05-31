@@ -22,6 +22,6 @@ format:
 
 ---
 
-MSc in Computational Health Informatics (Bioinformatics) student at University of Cape Town, South Africa. Holding a masters degree in Biostatistics at Bahir Dar University Ethiopia.
+MSc in Computational Health Informatics (Bioinformatics) student at University of Cape Town, South Africa. Holding a master's degree in Biostatistics at Bahir Dar University Ethiopia.
 
 
