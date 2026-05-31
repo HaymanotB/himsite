@@ -1,6 +1,6 @@
 ---
 title: "Haymanot Berehan"
-image: pages/images/img1.jpg
+image: pages/images/img2.png
 toc: false 
 about: 
   template: jolla 
