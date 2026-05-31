@@ -7,14 +7,14 @@ title: "Certificates"
 ---
 
 
-### 🏫 Teaching Certificate
+### 🏫 Tutorial Certificate
 Issued by Debre Markos University
 
 [📄 View Certificate](Teaching%20Certificate.pdf){target="_blank"}
 
 ---
 
-### 🐍 Python Certificate
+### 🐍 Python for Data Science Certificate
 Issued by Sololearn
 
 [📄 View Certificate](Pytho%20Certificate.pdf){target="_blank"}
@@ -35,21 +35,36 @@ Issued by Sololearn
 
 ---
 
-### 📈 HDP Certificate
+### 📈 Higher Degree Diploma Certificate
 Issued by Assosa University
 
 [📄 View Certificate](HDPcertificate.pdf){target="_blank"}
 
 ---
 
-### 🤖 ALX Certificate
+### 🤖 Virtual Assistance Certificate
 Issued by Africa Leadership Group (ALX)
 
 [📄 View Certificate](ALX%20Certificate.pdf){target="_blank"}
 
 ---
 
-### 🎓 Research Ethics Certificate
+### 🎓 Research Ethics Training Certificate
 Issued by Office of Research Integrity's, UCT
 
 [📄 View Certificate](CertificateOfCompletion_ResearchEthics.pdf){target="_blank"}
+
+
+---
+
+###  Letter of completion Introduction to Biomedical Informatics & Artificial Intelligence course
+Issued by Oregon Health and Science University OHSU,USA
+
+[📄 View Certificate](LetterOfCompletion.pdf){target="_blank"}
+
+---
+
+### 🎓 Master Class Cerificate
+Issued by Arizona State University ASU,USA
+
+[📄 View Certificate](Master_Class_Certificate.pdf){target="_blank"}
