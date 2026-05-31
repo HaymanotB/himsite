@@ -1,9 +1,9 @@
 ---
 title: "Lecture Notes"
 ---
-  
-  
-  
-  
-  The page is under preparation. 
+
+### RStudion training material 
+
+
+[📄 View RStudio_material](RStudio_material.pptx){target="_blank"}
   

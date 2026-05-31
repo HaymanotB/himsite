@@ -2,26 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://haymanot.rbind.io/index.html</loc>
-    <lastmod>2025-07-29T19:14:21.552Z</lastmod>
+    <lastmod>2026-05-31T11:26:51.800Z</lastmod>
   </url>
   <url>
     <loc>https://haymanot.rbind.io/publications/index.html</loc>
-    <lastmod>2025-07-29T19:47:42.850Z</lastmod>
+    <lastmod>2026-05-31T11:26:51.824Z</lastmod>
   </url>
   <url>
     <loc>https://haymanot.rbind.io/lecture/index.html</loc>
-    <lastmod>2024-08-09T18:20:48.328Z</lastmod>
+    <lastmod>2026-05-31T11:40:35.204Z</lastmod>
   </url>
   <url>
     <loc>https://haymanot.rbind.io/Certificates/index.html</loc>
-    <lastmod>2024-08-08T16:56:31.162Z</lastmod>
+    <lastmod>2026-05-31T11:35:52.657Z</lastmod>
   </url>
   <url>
     <loc>https://haymanot.rbind.io/contact.html</loc>
-    <lastmod>2024-08-06T18:36:17.476Z</lastmod>
+    <lastmod>2026-05-31T11:26:51.799Z</lastmod>
   </url>
   <url>
     <loc>https://haymanot.rbind.io/pages/about.html</loc>
-    <lastmod>2025-07-29T21:34:06.678Z</lastmod>
+    <lastmod>2026-05-31T11:38:07.526Z</lastmod>
+  </url>
+  <url>
+    <loc>https://haymanot.rbind.io/presentations/2024-07-21_Spatial-data-visualization/index.html</loc>
+    <lastmod>2026-05-31T11:26:51.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://haymanot.rbind.io/presentations/2023-08-19_Rmarkdown/index.html</loc>
+    <lastmod>2026-05-31T11:26:51.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://haymanot.rbind.io/blog/2024-02-11-moving-to-quarto/index.html</loc>
+    <lastmod>2026-05-31T11:26:51.799Z</lastmod>
+  </url>
+  <url>
+    <loc>https://haymanot.rbind.io/blog/index.html</loc>
+    <lastmod>2026-05-31T11:26:51.799Z</lastmod>
+  </url>
+  <url>
+    <loc>https://haymanot.rbind.io/presentations/index.html</loc>
+    <lastmod>2026-05-31T11:26:51.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://haymanot.rbind.io/presentations/2023-09-25_c4ed-theme/index.html</loc>
+    <lastmod>2026-05-31T11:26:51.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://haymanot.rbind.io/presentations/2023-10-18_Joint-Models-EPHI/index.html</loc>
+    <lastmod>2026-05-31T11:26:51.823Z</lastmod>
   </url>
 </urlset>

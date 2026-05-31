@@ -2,7 +2,54 @@
 title: "Certificates"
 ---
 
+## 🎓 My Certificates
+
+---
 
 
+### 🏫 Teaching Certificate
+Issued by Debre Markos University
 
-    The page is under preparation.
+[📄 View Certificate](Teaching%20Certificate.pdf){target="_blank"}
+
+---
+
+### 🐍 Python Certificate
+Issued by Sololearn
+
+[📄 View Certificate](Pytho%20Certificate.pdf){target="_blank"}
+
+---
+
+### 📊 R Certificate
+Issued by Sololearn
+
+[📄 View Certificate](R%20Certificate.pdf){target="_blank"}
+
+---
+
+### 🌐 HTML Certificate
+Issued by Sololearn
+
+[📄 View Certificate](HTML%20Certificate.pdf){target="_blank"}
+
+---
+
+### 📈 HDP Certificate
+Issued by Assosa University
+
+[📄 View Certificate](HDPcertificate.pdf){target="_blank"}
+
+---
+
+### 🤖 ALX Certificate
+Issued by Africa Leadership Group (ALX)
+
+[📄 View Certificate](ALX%20Certificate.pdf){target="_blank"}
+
+---
+
+### 🎓 Research Ethics Certificate
+Issued by Office of Research Integrity's, UCT
+
+[📄 View Certificate](CertificateOfCompletion_ResearchEthics.pdf){target="_blank"}

@@ -5,6 +5,12 @@
     ],
     "presentations\\index.qmd": [
       "index.qmd"
+    ],
+    "blog/index.qmd": [
+      "index.qmd"
+    ],
+    "presentations/index.qmd": [
+      "index.qmd"
     ]
   }
 }
