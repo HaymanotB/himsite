@@ -7,10 +7,17 @@ title: "Certificates"
 ---
 
 
-### 🏫 Tutorial Certificate
-Issued by Debre Markos University
+### Certificate of Internship
+Issued by International Center for Genetic Engineering and Biotechnology, Cape Town 
 
-[📄 View Certificate](Teaching%20Certificate.pdf){target="_blank"}
+[📄 View Certificate](CertificateOfInternship.pdf){target="_blank"}
+
+---
+
+### Certificate of IndabaX South Africa 2025 Hackathon Winner
+Issued by Zindi 
+
+[📄 View Certificate](IndabaX.jpeg){target="_blank"}
 
 ---
 
@@ -68,3 +75,11 @@ Issued by Oregon Health and Science University OHSU, USA
 Issued by Arizona State University ASU, USA
 
 [📄 View Certificate](Master_Class_Certificate.pdf){target="_blank"}
+
+
+---
+
+### 🏫 Tutorial Certificate
+Issued by Debre Markos University
+
+[📄 View Certificate](Teaching%20Certificate.pdf){target="_blank"}
