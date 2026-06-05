@@ -43,5 +43,8 @@
   },
   "publications/index.qmd": {
     "index.html": "258424dc"
+  },
+  "presentations/nfcore/index.qmd": {
+    "index.html": "ee2d6c19"
   }
 }

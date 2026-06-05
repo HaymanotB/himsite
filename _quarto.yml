@@ -11,8 +11,8 @@ website:
         icon: person-circle
       - href: lecture/index.qmd
       - href: publications/index.qmd
-      #- href: presentations/index.qmd
-        #text: Presentations
+      - href: presentations/index.qmd
+        text: Presentations
       - href: Certificates/index.qmd
     right:
       - href: https://himi-be-my.blogspot.com/

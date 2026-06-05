@@ -1,0 +1,13 @@
+---
+title: "nf-core/rnafusion Pipeline"
+author: 
+  - name: Haymanot Berehan
+    affiliation: UCT
+date: "2025-10-28"
+image: nf-core.png
+categories:
+  - R Markdown
+  - xaringan
+---
+[📄 View slide](nf-corernafusion_Pipeline_presentation.pdf){target="_blank"}
+
