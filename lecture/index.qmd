@@ -5,5 +5,5 @@ title: "Lecture Notes"
 ### RStudion training material 
 
 
-[📄 View RStudio_material](RStudio_material.pptx){target="_blank"}
+[📄 View RStudio_material](RStudio_material.pdf){target="_blank"}
   
