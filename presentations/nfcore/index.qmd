@@ -1,13 +1,10 @@
 ---
-title: "nf-core/rnafusion Pipeline"
+title: "nf-core/rnafusion Pipeline / Workshops and presentations by Haymanot Berehan on bioinformatics, spatial data analysis and statistical methods."
 author: 
   - name: Haymanot Berehan
     affiliation: UCT
 date: "2025-10-28"
 image: nf-core.png
-categories:
-  - R Markdown
-  - xaringan
 ---
 [📄 View slide](nf-corernafusion_Pipeline_presentation.pdf){target="_blank"}
 
