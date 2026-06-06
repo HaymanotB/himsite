@@ -1,9 +1,17 @@
 ---
 title: "Lecture Notes"
+description: "Lecture notes and teaching materials for R programming, and data analysis methods."
 ---
+
+This page will contain different lecture notes and teaching materials of programmings, statistics,  bioinformatics and, data science.
 
 ### RStudion training material 
 
 
 [📄 View RStudio_material](RStudio_material.pdf){target="_blank"}
   
+  
+---
+
+
+### python training material 
