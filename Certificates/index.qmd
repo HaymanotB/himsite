@@ -3,62 +3,60 @@ title: "Certificates"
 description: "A collection of professional and academic certificates earned by Haymanot Berehan in bioinformatics, statistics, programming and data science."
 ---
 
-## 🎓 My Certificates
-
----
-
-
 ### Certificate of Internship
-Issued by International Center for Genetic Engineering and Biotechnology, Cape Town 
+- Issued by International Center for Genetic Engineering and Biotechnology, Cape Town 
 
 [📄 View Certificate](CertificateOfInternship.pdf){target="_blank"}
 
 ---
 
-###  Letter of completion Introduction to Biomedical Informatics & Artificial Intelligence course
-Issued by Oregon Health and Science University OHSU, USA
+###  Letter of course completion 
+- Introduction to Biomedical Informatics & Artificial Intelligence course
+- Issued by Oregon Health and Science University OHSU, USA
 
 [📄 View Certificate](LetterOfCompletion.pdf){target="_blank"}
 
 ---
 
-### Certificate of IndabaX South Africa 2025 Hackathon Winner
-Issued by Zindi 
+### Certificate of Hackathon Winner
+- IndabaX South Africa 2025 Hackathon with Machine Learning Interatomic Potentials (MLIP) Hackathon with Instadeep
+- Issued by Zindi 
 
 [📄 View Certificate](IndabaX.jpeg){target="_blank"}
 
 ---
 
 ### 🐍 Python for Data Science Certificate
-Issued by Sololearn
+- Issued by Sololearn
 
 [📄 View Certificate](Pytho%20Certificate.pdf){target="_blank"}
 
 ---
 
 ### 📊 R Certificate
-Issued by Sololearn
+- Issued by Sololearn
 
 [📄 View Certificate](R%20Certificate.pdf){target="_blank"}
 
 ---
 
 ### 🌐 HTML Certificate
-Issued by Sololearn
+- Issued by Sololearn
 
 [📄 View Certificate](HTML%20Certificate.pdf){target="_blank"}
 
 ---
 
-### 📈 Higher Degree Diploma Certificate
-Issued by Assosa University
+### 📈 HDP Certificate
+- Higher Degree Diploma Programme Completion Certificate
+- Issued by Assosa University
 
 [📄 View Certificate](HDPcertificate.pdf){target="_blank"}
 
 ---
 
 ### 🤖 Virtual Assistance Certificate
-Issued by Africa Leadership Group (ALX)
+- Issued by Africa Leadership Group (ALX)
 
 [📄 View Certificate](ALX%20Certificate.pdf){target="_blank"}
 
@@ -66,14 +64,14 @@ Issued by Africa Leadership Group (ALX)
 ---
 
 ### 🤖 Training of Trainers (TOT) Certificate
-Issued by Dereja.com in partnership with MasterCard Foundation🔴🟠 and Assosa University.
+- Issued by Dereja.com in partnership with MasterCard Foundation🔴🟠 and Assosa University.
 
 [📄 View Certificate](TrainingOfTrainers.pdf){target="_blank"}
 
 ---
 
 ### 🎓 Research Ethics Training Certificate
-Issued by Office of Research Integrity's, UCT
+- Issued by Office of Research Integrity's, UCT
 
 [📄 View Certificate](CertificateOfCompletion_ResearchEthics.pdf){target="_blank"}
 
@@ -82,7 +80,7 @@ Issued by Office of Research Integrity's, UCT
 
 
 ### 🎓 Master Class Cerificate
-Issued by Arizona State University, USA in Collaboration with Assosa University
+- Issued by Arizona State University, USA in Collaboration with Assosa University
 
 [📄 View Certificate](Master_Class_Certificate.pdf){target="_blank"}
 
@@ -90,22 +88,22 @@ Issued by Arizona State University, USA in Collaboration with Assosa University
 ---
 
 ### 🎓 Induction Training Cerificate
-Issued by Assosa University
+- Issued by Assosa University
 
 [📄 View Certificate](induction_training_certificate.pdf){target="_blank"}
 
 ---
 
 ### 🎓 Interactive Classroom English Training Cerificate
-Issued by English Language Improvment Center, Assosa University
+- Issued by English Language Improvment Center, Assosa University
 
 [📄 View Certificate](Certificate_of_training.pdf){target="_blank"}
 
 ---
 
 
-### Work Efficiency
-Issued by Statistics Department, Assosa University
+### 🎓 Work Efficiency Certificate
+- Issued by Statistics Department, Assosa University
 
 [📄 View Certificate](WorkEfficiency.pdf){target="_blank"}
 
@@ -113,6 +111,6 @@ Issued by Statistics Department, Assosa University
 ---
 
 ### 🏫 Tutorial Certificate
-Issued by Debre Markos University
+- Issued by Debre Markos University
 
 [📄 View Certificate](Teaching%20Certificate.pdf){target="_blank"}
