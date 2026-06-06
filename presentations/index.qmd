@@ -1,6 +1,7 @@
 ---
-title: ""
-author: ""
+title: "Presentations"
+description: "Workshops and presentations on bioinformatics, spatial data analysis and statistical methods."
+author: "Haymanot Berehan"
 comments: false
 listing:
   contents: "index.qmd"

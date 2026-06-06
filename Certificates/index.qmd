@@ -1,5 +1,6 @@
 ---
 title: "Certificates"
+description: "A collection of professional and academic certificates earned by Haymanot Berehan in bioinformatics, statistics, programming and data science."
 ---
 
 ## 🎓 My Certificates
