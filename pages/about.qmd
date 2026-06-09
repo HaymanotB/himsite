@@ -4,19 +4,19 @@ title: ""
 
 ## About Me
 
--   Currently, I am doing my Second master's in Computational Health Informatics (Bionformatics) at University of Cape Town, South Africa. I have another master's degrees in statistics (Biostatistics) from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, Ethiopia. coupled with 7+ years of experience in project leading, data management, analysis, and lecturing. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in bioinformatics,biostatistics, epigenetics, genomics, and biomedical research. I have a strong statistical software training experiences in (R, Python, Bash, SAS, SPSS, STATA, ArcGIS).
+-   Currently, I am doing my Second master's in Computational Health Informatics (Bionformatics) at University of Cape Town, South Africa. I have another master's degrees in statistics (Biostatistics) from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, Ethiopia. coupled with 7+ years of experience in project leading, data management, analysis, and lecturing. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in bioinformatics, biostatistics, epigenetics, genomics, and biomedical research. I have a strong proficiency in (R/RStudio, Python, Linux/Bash, Git, High-Performance Computing (HPC) environments, and a wide range of bioinformatics tools.).
 
 ## Education
 
 -  **University of Cape Town, South Africa\| Cape Town, South Africa**
 
-    -  MSc in Bioinformatics
+    -  MSc in Computational Health Informatics (Bioinformatics)
     
-    \| February 2025 - Present   
+        \| February 2025 - Present   
 
 -   **Bahir Dar University, Ethiopia\| Bahir Dar, Ethiopia**
 
-    -   MSc in Clinical Biostatistics
+    -   MSc in Biostatistics
 
         \| Sptember 2020 - August 2022
 
@@ -25,14 +25,23 @@ title: ""
     -   BSc in Statistics
 
         \| September 2014 - July 2017
+        
+-   **Assosa University, Ethiopia\| Assosa, Ethiopia**
+
+    - Higher Diploma Programme(HDP)
+      
+        \| September 2018 – February 2020
 
 -   **Africa Leadership Group(ALX)**
 
     -   Vertiual Assistant and Data Analyst
 
-        \| Agust 2022
+        \| July - Agust 2022
 
 ## Experience
+-   **Intern Bioinformatics** at: [International Centre for Genetic Engineering and Biotechnology(ICGEB)](https://www.icgeb.org/)
+
+    \| 2025-09-15 -to- 2025-10-30.
 
 -   **Lecturer** at: [Assosa University](http://www.asu.edu.et/)
 
