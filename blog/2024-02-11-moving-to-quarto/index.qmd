@@ -1,8 +1,6 @@
 ---
 title: Blog Post 
-date: '2024-08-03'
-summary: 'Tips on quarto website'
-categories: ["quarto"]
+summary: 'This is also my blog posts'
 ---
 
 [my blog](https://himi-be-my.blogspot.com/)
