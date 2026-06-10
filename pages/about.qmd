@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "About Me"
 ---
-
-## About Me
 
 -   Currently, I am doing my Second master's in Computational Health Informatics (Bionformatics) at University of Cape Town, South Africa. I have another master's degrees in statistics (Biostatistics) from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, Ethiopia. coupled with 7+ years of experience in project leading, data management, analysis, and lecturing. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in bioinformatics, biostatistics, epigenetics, genomics, and biomedical research. I have a strong proficiency in (R/RStudio, Python, Linux/Bash, Git, High-Performance Computing (HPC) environments, and a wide range of bioinformatics tools.).
 
