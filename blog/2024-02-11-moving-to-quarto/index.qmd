@@ -1,5 +1,6 @@
 ---
 title: Blog Post 
+date: '2024-08-03'
 summary: 'This is also my blog posts'
 ---
 
