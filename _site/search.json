@@ -72,16 +72,16 @@
   {
     "objectID": "blog/2024-02-11-moving-to-quarto/index.html",
     "href": "blog/2024-02-11-moving-to-quarto/index.html",
-    "title": "Introduction",
+    "title": "Blog Post",
     "section": "",
-    "text": "If you use Netlify (which I highly recommed, as the Quarto/GitHub/Netlify integration is so seamless), you can supply a redirects file that lists all the old urls and their new locations. Netlify builds from Quarto’s _site directory, so just put the _redirects file (here’s mine) in your _site folder, right? I tried that first, but it doesn’t work because the _site directory rebuilds when you rerender your site. Instead, I moved my file into the static folder, which gets copied over to _site as described above.\nMy use case here for redirects is pretty simple: I had a small number of urls to switch, and I don’t expect to frequently add to that list. If your situation is more complicated and/or you want that _redirects file to automatically generate shorter urls when you create new pages, there are options described here and here."
+    "text": "my blog"
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "\nBlog Posts\n",
     "section": "",
-    "text": "Introduction 2024-08-03 \n    \n            \n                \n                \n                    quarto\n                \n                \n            \n            \n    Tips on quarto website\n  \n\n\n\nNo matching items"
+    "text": "Blog Post 2024-08-03 \n    \n            \n                \n                \n                    quarto\n                \n                \n            \n            \n    Tips on quarto website\n  \n\n\n\nNo matching items"
   },
   {
     "objectID": "presentations/index.html",
