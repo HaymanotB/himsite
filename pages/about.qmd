@@ -2,7 +2,18 @@
 title: "About Me"
 ---
 
-- I am completing my second master's in Computational Health Informatics (Bionformatics) at University of Cape Town, South Africa. I hold a master's degrees in Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, Ethiopia. Coupled with 7+ years of experience in project leading, data management, analysis, and lecturing. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in bioinformatics, biostatistics, epigenetics, genomics, and biomedical research. I have a strong proficiency in (R/RStudio, Python, Linux/Bash, Git, High-Performance Computing (HPC) environments, and a wide range of bioinformatics tools.).
+I am completing my second master's in Computational Health Informatics (Bionformatics) at University of Cape Town, South Africa. I hold a master's degrees in Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, Ethiopia. With over seven years of experience in data management, statistical analysis, research, and university teaching.
+
+## Skills
+
+I have a strong proficiency in 
+
+- R/RStudio 
+- Python 
+- Linux/Bash 
+- Git/Github 
+- High-Performance Computing (HPC) environments, and
+-  Wide range of bioinformatics tools
 
 ## Education
 
@@ -56,3 +67,11 @@ title: "About Me"
 - **Monitoring AND Evaluation** Remotely at: Shebel Berenta Agricultural office – Yeduha, Ethiopia 
 
     \|2018-10-22 – to - 2024-08-16 
+    
+## Research Interests
+
+- Bioinformatics and Computational Biology
+- Psychiatric and Epidemiological Genetics
+- Genomics
+- Epigenetics, and
+- AI/ML for Biomedical research.

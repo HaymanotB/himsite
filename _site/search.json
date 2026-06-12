@@ -39,7 +39,7 @@
     "href": "pages/about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am completing my second master’s in Computational Health Informatics (Bionformatics) at University of Cape Town, South Africa. I hold a master’s degrees in Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, Ethiopia. Coupled with 7+ years of experience in project leading, data management, analysis, and lecturing. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in bioinformatics, biostatistics, epigenetics, genomics, and biomedical research. I have a strong proficiency in (R/RStudio, Python, Linux/Bash, Git, High-Performance Computing (HPC) environments, and a wide range of bioinformatics tools.)."
+    "text": "I am completing my second master’s in Computational Health Informatics (Bionformatics) at University of Cape Town, South Africa. I hold a master’s degrees in Biostatistics from Bahir Dar University and and BSc degree in Statistics at Debre Markos University, Ethiopia. With over seven years of experience in data management, statistical analysis, research, and university teaching."
   },
   {
     "objectID": "pages/about.html#about-me",
@@ -207,6 +207,27 @@
     "href": "publications/index.html#current-project",
     "title": "Publications",
     "section": "Current Project",
-    "text": "Current Project\n\nTitle: Biological effect of Early Adversity in Divers Population Groups\n| Epigentics Modification | DNA Methylation | Epigenome Wide Association Study (EWAS) | Psychiatric Genetics (PTSD & Depression) | Bioinformatics (Pathway and Function enrichment analysis)"
+    "text": "Current Project\nTitle: Biological effect of Early Adversity in Divers Population Groups\nFocused on:\n\nEpigentics Modification\nDNA Methylation\nEpigenome Wide Association Study (EWAS)\nPsychiatric Genetics (PTSD & Depression)\nBioinformatics (Pathway and Function enrichment analysis)"
+  },
+  {
+    "objectID": "pages/about.html#interest",
+    "href": "pages/about.html#interest",
+    "title": "About Me",
+    "section": "Interest",
+    "text": "Interest\n\nBioinformatics and Computational Biology\nPsychiatric and Epidemiological Genetics\nGenomics\nEpigenetics, and\nAI/ML for Biomedical research."
+  },
+  {
+    "objectID": "pages/about.html#skills",
+    "href": "pages/about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\nI have a strong proficiency in\n\nR/RStudio\nPython\nLinux/Bash\nGit/Github\nHigh-Performance Computing (HPC) environments, and\nWide range of bioinformatics tools"
+  },
+  {
+    "objectID": "pages/about.html#research-interests",
+    "href": "pages/about.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBioinformatics and Computational Biology\nPsychiatric and Epidemiological Genetics\nGenomics\nEpigenetics, and\nAI/ML for Biomedical research."
   }
 ]

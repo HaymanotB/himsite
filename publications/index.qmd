@@ -73,10 +73,12 @@ See also:
 
 ## Current Project
 
--   Title: Biological effect of Early Adversity in Divers Population Groups
+**Title**: Biological effect of Early Adversity in Divers Population Groups
 
-    \| Epigentics Modification
-    \| DNA Methylation
-    \| Epigenome Wide Association Study (EWAS)
-    \| Psychiatric Genetics (PTSD & Depression)
-    \| Bioinformatics (Pathway and Function enrichment analysis)
+Focused on:
+
+- Epigentics Modification
+- DNA Methylation
+- Epigenome Wide Association Study (EWAS)
+- Psychiatric Genetics (PTSD & Depression)
+- Bioinformatics (Pathway and Function enrichment analysis)
