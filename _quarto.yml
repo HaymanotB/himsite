@@ -5,6 +5,7 @@ website:
   site-url: "https://haymanot.rbind.io/"
   title: "Home"
   description: "Welcome to my website"
+  google-analytics: "G-TZ18ER4QZM"
   navbar:
     left:
       - href: pages/about.qmd
