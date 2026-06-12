@@ -60,29 +60,23 @@ See also:
 
 ## Under Review
 
--   Title: Competing Risks analysis in a case of stroke patients at felege hiwot referral hospital, Bahir Dar Ethiopia. Frontier in stroke. 2024. 10:1442989
+-   Title: Competing Risks analysis in a case of stroke patients at felege hiwot referral hospital, Bahir Dar Ethiopia. Frontier in stroke.
 
-    Journal: **Frontier in Stroke** [link](https://review.frontiersin.org/review/bootstrap/3871bec4-0494-4e23-abbe-04ec6e05772e)
+    Journal: **Frontier in Stroke** 
 
--   Title. Modelling spatial distribution and determinants of home delivery in Ethiopia: geographically weighted regression.
 
-    Journal: **Scientific report**
-
--   Title. Identifying factors that determine functional status of stroke patients using partial proportional odds model at Felege Hiwot referral hospital Ethiopia. 2024.
+-   Title. Identifying factors that determine functional status of stroke patients using partial proportional odds model at Felege Hiwot referral hospital Ethiopia.
 
     Journal: **Scientific report**
     
-[link](https://submission.springernature.com/submission/1d47242b-8d45-444f-b013-354d34371436)
 
 
-## Under preparations
+## Current Project
 
--   Title: Understanding Trends and Determinants of Healthcare Utilization for Common Childhood Illnesses in Ethiopia
+-   Title: Biological effect of Early Adversity in Divers Population Groups
 
--   Title: Exploring frailty and factor identification in women who had breast cancer at Felege Hiwot referral hospital, Ethiopia
-
--   Title: Joint modelling of CD4 cell count change and adherence to HAART at Injibara general hospital, Ethiopia
-
--   Title: Determinant factor of longitudinal pulse pressure among hypertensive patients treated Assosa general hospital, Ethiopia
-
--   Title: Major risk factors on time to recovery and competing lost follow up among diabetic patients at Felege Hiwot referral hospital, Ethiopia
+    \| Epigentics Modification
+    \| DNA Methylation
+    \| Epigenome Wide Association Study (EWAS)
+    \| Psychiatric Genetics (PTSD & Depression)
+    \| Bioinformatics (Pathway and Function enrichment analysis)
